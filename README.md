@@ -10,7 +10,7 @@ Welcome to my project portfolio! This repository showcases selected academic, re
 - Designed and implemented an automated pick-and-place system using MQTT protocol for real-time communication with the igus REBEL-6DOF robot.
 - Developed custom motion sequences and integrated gripper control for efficient task execution.
 - Enabled seamless communication between robotic systems and IoT devices.
-- 🔗 [View Repository](https://github.com/Raj-11-Bag/Data-Analysis-Using-Python)
+- 🔗 [View Repository](https://github.com/Raj-11-Bag/igus-REBEL-6DOF-01)
 
 ---
 
