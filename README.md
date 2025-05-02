@@ -16,7 +16,7 @@ Welcome to my project portfolio! This repository showcases selected academic, re
 
 ## 🔧 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/vy1RY_8qRf24PA5K/0.jpg)](https://youtube.com/shorts/uavyQNFkDYM?si=vy1RY_8qRf24PA5K)
+[![Watch the demo](https://img.youtube.com/shorts/zuCRHZ35V98?si/0.jpg)](https://youtube.com/shorts/zuCRHZ35V98?si=_MTON7L70PKrNpHv)
 
 
 ---
