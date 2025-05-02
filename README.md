@@ -12,6 +12,13 @@ Welcome to my project portfolio! This repository showcases selected academic, re
 - Enabled seamless communication between robotic systems and IoT devices.
 - 🔗 [View Repository](https://github.com/Raj-11-Bag/igus-REBEL-6DOF-01)
 
+- Here’s a short demonstration of the pick-and-place system in action.
+
+## 🔧 Demo
+
+[![Watch the demo](https://img.youtube.com/shorts/uavyQNFkDYM?si=vy1RY_8qRf24PA5K.jpg)](https://youtube.com/shorts/uavyQNFkDYM?si=vy1RY_8qRf24PA5K)
+
+
 ---
 
 ## 📊 Data Analysis & Machine Learning
