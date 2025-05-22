@@ -26,8 +26,8 @@ _Simulation of a modular, ROS 2-based autonomous robot with real-world control a
 
 ## 🔧 Demo
 
-[![Watch the demo](https://img.youtube.com/shorts/zuCRHZ35V98?si/0.jpg)]
-[![video](https://youtube.com/shorts/zuCRHZ35V98?si=_MTON7L70PKrNpHv)]
+[![Watch the demo]
+[![video](https://youtube.com/shorts/zuCRHZ35V98?feature=share)]
 
 
 ---
