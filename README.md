@@ -20,13 +20,12 @@ _Simulation of a modular, ROS 2-based autonomous robot with real-world control a
 - Designed and implemented an automated pick-and-place system using MQTT protocol for real-time communication with the igus REBEL-6DOF robot.
 - Developed custom motion sequences and integrated gripper control for efficient task execution.
 - Enabled seamless communication between robotic systems and IoT devices.
-- 🔗 [View Repository](https://github.com/Raj-11-Bag/igus-REBEL-6DOF-01)
+- 🔗 [View Repository](https://github.com/Raj-11-Bag/igus-REBEL-6DOF-01).
 
-- Here’s a short demonstration of the pick-and-place system in action.
+## 📽️ Demo Video
+Watch the full video of the robotic arm in action (pick-and-place via smartphone MQTT control):
 
-## 🔧 Demo
-
-📽️ [Demo Video – YouTube](https://www.youtube.com/shorts/zuCRHZ35V98?si=05-Rio0mjGNZqN6P)
+[![Watch the video](https://img.youtube.com/vi/3a9YwpJj9Qo/0.jpg)](https://youtu.be/3a9YwpJj9Qo)
 
 
 ---
