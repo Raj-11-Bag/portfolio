@@ -6,17 +6,7 @@ Welcome to my project portfolio! This repository showcases selected academic, re
 
 ## 🤖 Robotics & Automation Projects
 
-### 1. Arduinobot-ROS_2-Robotic-arm-Simulation
-_Simulation of a modular, ROS 2-based autonomous robot with real-world control architecture and launch stack._
-
-- Built a differential drive robot in Gazebo using custom URDF/Xacro.
-- Configured ros2_control with `controller_manager` and real-time joint state broadcasters.
-- Debugged and resolved ROS 2 pluginlib and SystemInterface errors by tracing and rebuilding from source.
-- Developed lifecycle-managed launch system with namespaced, parameterized multi-node configuration.
-- Focused on mirroring real deployment behavior for testing modular robotics stacks.
-- 🔗 [View Repository](https://github.com/Raj-11-Bag/Arduinobot-ROS_2-Robotic-arm-Simulation)
-
-### 2. MQTT Pick & Place System with igus REBEL-6DOF
+### 1. Smartphone-Controlled Robotic Arm | MQTT + ROS2 | igus REBEL 6DOF Project
 - Designed and implemented an automated pick-and-place system using MQTT protocol for real-time communication with the igus REBEL-6DOF robot.
 - Developed custom motion sequences and integrated gripper control for efficient task execution.
 - Enabled seamless communication between robotic systems and IoT devices.
@@ -26,6 +16,17 @@ _Simulation of a modular, ROS 2-based autonomous robot with real-world control a
 Watch the full video of the robotic arm in action (pick-and-place via smartphone MQTT control):
 
 [![Watch the video](https://img.youtube.com/vi/3a9YwpJj9Qo/0.jpg)](https://youtu.be/3a9YwpJj9Qo)
+
+
+### 2. Arduinobot-ROS_2-Robotic-arm-Simulation
+_Simulation of a modular, ROS 2-based autonomous robot with real-world control architecture and launch stack._
+
+- Built a differential drive robot in Gazebo using custom URDF/Xacro.
+- Configured ros2_control with `controller_manager` and real-time joint state broadcasters.
+- Debugged and resolved ROS 2 pluginlib and SystemInterface errors by tracing and rebuilding from source.
+- Developed lifecycle-managed launch system with namespaced, parameterized multi-node configuration.
+- Focused on mirroring real deployment behavior for testing modular robotics stacks.
+- 🔗 [View Repository](https://github.com/Raj-11-Bag/Arduinobot-ROS_2-Robotic-arm-Simulation)
 
 
 ---
