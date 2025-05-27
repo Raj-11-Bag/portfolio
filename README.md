@@ -11,16 +11,13 @@ Welcome to my project portfolio! This repository showcases selected academic, re
 - Developed custom motion sequences and integrated gripper control for efficient task execution.
 - Enabled seamless communication between robotic systems and IoT devices.
 - 🔗 [View Repository](https://github.com/Raj-11-Bag/igus-REBEL-6DOF-01).
-
 ## 📽️ Demo Video
 Watch the full video of the robotic arm in action (pick-and-place via smartphone MQTT control):
-
 [![Watch the video](https://img.youtube.com/vi/3a9YwpJj9Qo/0.jpg)](https://youtu.be/3a9YwpJj9Qo)
 
 
 ### 2. Arduinobot-ROS_2-Robotic-arm-Simulation
 _Simulation of a modular, ROS 2-based autonomous robot with real-world control architecture and launch stack._
-
 - Built a differential drive robot in Gazebo using custom URDF/Xacro.
 - Configured ros2_control with `controller_manager` and real-time joint state broadcasters.
 - Debugged and resolved ROS 2 pluginlib and SystemInterface errors by tracing and rebuilding from source.
@@ -52,6 +49,14 @@ _Simulation of a modular, ROS 2-based autonomous robot with real-world control a
 - 🔗 [View Repository](https://github.com/raj-11-bag/CNN)
 
 ---
+## CAD Projects
+### 🔧 Single-Cylinder Engine Simulation (CATIA V5 R21)
+- Complete 3D modeling and assembly of a single-cylinder internal combustion engine
+-Simulated real-time motion using CATIA's DMU Kinematics with externally applied torque.
+-Demonstrates piston-crankshaft dynamics and correct degrees of freedom.
+-Built using over 12 precision-designed mechanical component.
+- 🔗 [View Repository](https://github.com/raj-11-bag/Single-Cylinder-Engine-Drawing-Assembly-and-Simulation-using-CATIA)
+[![Watch the video](https://img.youtube.com/vi/7AIq1TsHjKs/0.jpg)](https://youtu.be/7AIq1TsHjKs)
 
 ## 🛠 Technical Skills
 
