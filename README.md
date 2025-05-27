@@ -52,9 +52,9 @@ _Simulation of a modular, ROS 2-based autonomous robot with real-world control a
 ## CAD Projects
 ### 🔧 Single-Cylinder Engine Simulation (CATIA V5 R21)
 - Complete 3D modeling and assembly of a single-cylinder internal combustion engine
--Simulated real-time motion using CATIA's DMU Kinematics with externally applied torque.
--Demonstrates piston-crankshaft dynamics and correct degrees of freedom.
--Built using over 12 precision-designed mechanical component.
+- Simulated real-time motion using CATIA's DMU Kinematics with externally applied torque.
+- Demonstrates piston-crankshaft dynamics and correct degrees of freedom.
+- Built using over 12 precision-designed mechanical component.
 - 🔗 [View Repository](https://github.com/raj-11-bag/Single-Cylinder-Engine-Drawing-Assembly-and-Simulation-using-CATIA)
 [![Watch the video](https://img.youtube.com/vi/7AIq1TsHjKs/0.jpg)](https://youtu.be/7AIq1TsHjKs)
 
