@@ -18,11 +18,9 @@ Watch the full video of the robotic arm in action (pick-and-place via smartphone
 
 ### 2. Arduinobot-ROS_2-Robotic-arm-Simulation
 _Simulation of a modular, ROS 2-based autonomous robot with real-world control architecture and launch stack._
-- Built a differential drive robot in Gazebo using custom URDF/Xacro.
-- Configured ros2_control with `controller_manager` and real-time joint state broadcasters.
-- Debugged and resolved ROS 2 pluginlib and SystemInterface errors by tracing and rebuilding from source.
-- Developed lifecycle-managed launch system with namespaced, parameterized multi-node configuration.
-- Focused on mirroring real deployment behavior for testing modular robotics stacks.
+- Engineered a 5-DOF robotic manipulator in ROS2 (Foxy) with self-collision-aware joint constraints and reusable Xacro macros.
+- Resolved low-level ROS2 control integration issues by debugging pluginlib/hardware interfaces and rebuilding source components.
+- Validated kinematic behavior in RViz with custom testbed.
 - 🔗 [View Repository](https://github.com/Raj-11-Bag/Arduinobot-ROS_2-Robotic-arm-Simulation)
 - ## 📽️ Demo Video
 Watch the full video of the robotic arm in action (pick-and-place via smartphone MQTT control):
