@@ -23,7 +23,6 @@ _Simulation of a modular, ROS 2-based autonomous robot with real-world control a
 - Validated kinematic behavior in RViz with custom testbed.
 - 🔗 [View Repository](https://github.com/Raj-11-Bag/Arduinobot-ROS_2-Robotic-arm-Simulation)
 - ## 📽️ Demo Video
-Watch the full video of the robotic arm in action (pick-and-place via smartphone MQTT control):
 [![Watch the video](https://img.youtube.com/vi/CfOsB5Pa6sc/0.jpg)](https://youtu.be/CfOsB5Pa6sc)
 
 
