@@ -24,6 +24,9 @@ _Simulation of a modular, ROS 2-based autonomous robot with real-world control a
 - Developed lifecycle-managed launch system with namespaced, parameterized multi-node configuration.
 - Focused on mirroring real deployment behavior for testing modular robotics stacks.
 - 🔗 [View Repository](https://github.com/Raj-11-Bag/Arduinobot-ROS_2-Robotic-arm-Simulation)
+- ## 📽️ Demo Video
+Watch the full video of the robotic arm in action (pick-and-place via smartphone MQTT control):
+[![Watch the video](https://img.youtube.com/vi/CfOsB5Pa6sc/0.jpg)](https://youtu.be/CfOsB5Pa6sc)
 
 
 ---
